@@ -31,15 +31,22 @@ We could NLP on the reviews to determine nearly infinite amount of information a
 [Put your answers to the questions here]
 
 1.
-People with negative thoughts are more likely to review or the other way around. Certain cities have more datapoints than others.
+People with negative thoughts are more likely to review or the other way around. Certain cities have more datapoints than others.  Number of reviews changes with the date and weather.
 2.
 This would ignore poorly reviewed restaurants and bias the data towards more positive, making all data seem at worst mediocre. You lose some span of possibilities which makes the data less variant.
 3.
 In number 2, we could scale the data to have a minimum at 3 and ignore all that don't have a star count already.
+
 # Objective 1
 [Put your answers here]
 
 1.
+5 rainy days 
+ * "20100608 09:00"
+ * "20100723 08:00"
+ * "20101211 19:00"
+ * "20100121 13:00"
+ * "20100119 21:00"
 2.
 3.
 4.
