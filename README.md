@@ -11,7 +11,7 @@
 ## Method
 
 1. Temperature, time, review count
-2. You could find keywords that may correlate with the weather dataset
+2. You could find keywords that may correlate with the trends in the weather dataset
 
 ## Bias
 
@@ -21,6 +21,10 @@
 
 # Objective 1
 [Put your answers here]
+Rainy
+3/10,3/11,4/23,4/24,4/25
+Sunny
+2/8, 2/10, 2/15, 2/21, 2/23, 2/24
 
 1.
 2.
