@@ -4,7 +4,7 @@
 
 ## Data
 
-1. Review count, and negative/positive reviews may be affected by weather for businesses.
+1. Review count, and negative/positive reviews may be affected by weather for businesses. There may be more positive reviews when the weather is really nice out, or vice versa.
 2. No
 3. You could possibly predict the weather based on the reviews found in the Yelp dataset.
 
