@@ -36,10 +36,10 @@ Sunny
 5.
 
 # Objective 2
-[Put your answers here]
 
-1.
-2.
+1. The businesses could all be put on a map, where size of the circle represents number of the reviews and color of the circle is average review. A new map could be created for each day, and the visualization would update the map for each day, sort of like a time lapse. To represent the weather, there could be storm clouds at the top of the visualization representing rain, or sun rays representing sunshine, etc.
+
+2. It's not enough to simply show the businesses with number of reviews for each of the selected days because we're trying to find correlations with weather, so the weather also has to be tied into the visualization.
 
 
 # Objective 3
