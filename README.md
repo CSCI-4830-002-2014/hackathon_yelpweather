@@ -69,6 +69,8 @@ Sunny precip sum
 # Objective 3
 
 [Tell your story!  Link your graphics!]
+![screenshot](stars.png)
+![screenshot](precip.png)
 
 # Objective 4
 
