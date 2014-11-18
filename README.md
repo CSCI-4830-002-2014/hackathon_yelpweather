@@ -44,6 +44,13 @@ Sunny
 
 # Objective 3
 
+The visualization would involve putting each business on a map. The size of the circle would represent review count for that day, while the color would represent average review. An overlay would illustrate the weather for that. For example, there would be a rain overlay for days with rain, snow for snowy days, or sun rays for a sunny day. The visualization could lapse between days or allow selection of days a user is interested in viewing.
+
+I don't know about, but nothing warms me up better than some hot cocoa. For me, that's Usher dancing shirtless in one of his music videos. The next best thing is a fresh cup from your local coffee shop! Data research has shown that on cold days in the area, there is an influx of yelp reviews for local Coffee shops in Madison. Futhermore, these increased reviews are also generally more positive (4 to 5 stars). 
+
+
+![screenshot](visualization.png)
+
 [Tell your story!  Link your graphics!]
 
 # Objective 4
