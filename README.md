@@ -4,22 +4,16 @@
 
 ## Data
 
-[Put your answers to the questions here]
-
 1. Review count, and negative/positive reviews may be affected by weather for businesses.
 2. No
 3. You could possibly predict the weather based on the reviews found in the Yelp dataset.
 
 ## Method
 
-[Put your answers to the questions here]
-
 1. Temperature, time, review count
 2. You could find keywords that may correlate with the weather dataset
 
 ## Bias
-
-[Put your answers to the questions here]
 
 1. Yelp dataset only has information for three cities.
 2. You'd only be able to get positive reviews
