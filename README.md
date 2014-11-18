@@ -86,8 +86,7 @@ In number 2, we could scale the data to have a minimum at 3 and ignore all that 
 2. A graph with raininess on the y-axis and day of the week on the x-axis. This would not be useful because we are entirely leaving out the star values. Another useless graph would be a timeline graph. It does not include a metric for star values.
 
 # Objective 3
-
-[Tell your story!  Link your graphics!]
+![screenshot](http://i.imgur.com/K8FW4tY.png)
 
 # Objective 4
 
