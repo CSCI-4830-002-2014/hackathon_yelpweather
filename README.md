@@ -81,11 +81,9 @@ In number 2, we could scale the data to have a minimum at 3 and ignore all that 
 5.
 
 # Objective 2
-[Put your answers here]
 
-1.
-2.
-
+1. A graph with star values on the y-axis and the 5 five rainy and 5 sunny days on the x -axis
+2. A graph with raininess on the y-axis and day of the week on the x-axis. This would not be useful because we are entirely leaving out the star values. Another useless graph would be a timeline graph. It does not include a metric for star values.
 
 # Objective 3
 
