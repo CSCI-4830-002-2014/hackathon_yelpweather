@@ -94,10 +94,9 @@ db.precip.aggregate([{$match:{"DATE":{$regex:/20100627.*/}, "STATION_NAME":"MADI
 ```
 
 # Objective 2
-[Put your answers here]
 
-1.
-2.
+1. Bar chart, Scatterplot, coloring of datapoints based on weather 
+2. Histogram, Pie Chart
 
 
 # Objective 3
