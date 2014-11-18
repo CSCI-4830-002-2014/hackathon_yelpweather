@@ -104,7 +104,7 @@ db.precip.aggregate([{$match:{"DATE":{$regex:/20100627.*/}, "STATION_NAME":"MADI
 [Tell your story!  Link your graphics!]
 ![screenshot](stars.png)
 ![screenshot](precip.png)
--D3 Graph http://jsfiddle.net/27z35g64/4/
+![screenshot](https://www.dropbox.com/s/wzy544ot5u9gepd/Screenshot%202014-11-17%2019.53.40.png?dl=1)
 
 # Objective 4
 
