@@ -2,7 +2,7 @@
 
 # Objective 1
 
-### Stars sunny
+### Rating average - sunny
 
 ```javascript
 > db.reviews.aggregate({$match:{"date":{$in: ["2010-07-04","2010-07-05","2010-07-06","2010-07-19","2010-07-24"]}}}, {$group:{_id:"$date", avg: {"$avg": "$stars"}}})
@@ -13,7 +13,7 @@
 { "_id" : "2010-07-05", "avg" : 3.684596577017115 }
 ```
 
-### Stars rainy
+### Rating average - rainy
 
 ```javascript
 > db.reviews.aggregate({$match:{"date":{$in: ["2010-07-22", "2010-06-23", "2010-07-15", "2010-08-13", "2010-06-27"]}}}, {$group:{_id:"$date", avg: {"$avg": "$stars"}}})
@@ -24,7 +24,7 @@
 { "_id" : "2010-07-22", "avg" : 3.771505376344086 }
 ```
 
-### Rainy precip sum
+### Precipitation sum - rainy
 
 ```javascript
 > db.precip.aggregate([{"$match":{"DATE":{$regex:/20100722/}}},{"$group":{"_id":"$STATION","total_precip":{"$sum":"$HPCP"}}}])
@@ -39,7 +39,7 @@
 { "_id" : "COOP:474961", "total_precip" : 100 }
 ```
 
-### Sunny precip sum
+### Precipitation sum - sunny
 
 ```javascript
 > db.precip.aggregate([{"$match":{"DATE":{$regex:/20100704/}}},{"$group":{"_id":"$STATION","total_precip":{"$sum":"$HPCP"}}}])
@@ -55,7 +55,7 @@
 { "_id" : "COOP:474961", "total_precip" : 80 }
 ```
 
-### Temp rainy
+### Temperature - rainy
 
 ```javascript
 db.precip.aggregate([{$match:{"DATE":{$regex:/20100722.*/}, "STATION_NAME":"MADISON DANE CO REGIONAL AIRPORT WI US"}}, {$group:{"_id": null, prec: {"$avg":"$HLY-TEMP-NORMAL"}}}])
@@ -74,7 +74,7 @@ db.precip.aggregate([{$match:{"DATE":{$regex:/20100627.*/}, "STATION_NAME":"MADI
 { "_id" : null, "prec" : 708.125 }
 ```
 
-## Temp sunny
+### Temperature - sunny
 
 ```javascript
 > db.precip.aggregate([{$match:{"DATE":{$regex:/20100704.*/}, "STATION_NAME":"MADISON DANE CO REGIONAL AIRPORT WI US"}}, {$group:{"_id": null, prec: {"$avg":"$HLY-TEMP-NORMAL"}}}])
