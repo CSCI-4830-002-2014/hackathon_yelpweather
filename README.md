@@ -80,21 +80,8 @@ review for rainy days hovers around ~3.81 stars, and around ~4.14 stars on
 sunny days. You can also see that on the sunnier days, the averge review count
 was a bit higher.
 
-4.
+4. Visualization:
 
-5.
+![Visualization](img/visual.png?raw=true)
 
-# Objective 2
-[Put your answers here]
-
-1.
-2.
-
-# Objective 3
-
-[Tell your story!  Link your graphics!]
-
-# Objective 4
-
-[Do it again!]
 
