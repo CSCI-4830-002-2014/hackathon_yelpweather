@@ -57,6 +57,27 @@ In number 2, we could scale the data to have a minimum at 3 and ignore all that 
 2.
 3.
 4.
+{
+        "_id" : ObjectId("54691e599da379ba100874e4"),
+        "DATE" : "20100711 15:00",
+        "HLY-TEMP-NORMAL" : 808
+}
+{
+        "_id" : ObjectId("54691e599da379ba10086fb6"),
+        "DATE" : "20100517 09:00",
+        "HLY-TEMP-NORMAL" : 600
+}
+{
+        "_id" : ObjectId("54691e599da379ba10086c7f"),
+        "DATE" : "20100413 02:00",
+        "HLY-TEMP-NORMAL" : 400
+}
+{
+        "_id" : ObjectId("54691e599da379ba100865b0"),
+        "DATE" : "20100130 10:00",
+        "HLY-TEMP-NORMAL" : 200
+}
+{
 5.
 
 # Objective 2
