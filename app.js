@@ -4,7 +4,7 @@ var app = express();
 
 var mongo = require('mongoskin');
 
-var db = mongo.db("mongodb://localhost/yelp/:3000", {native_parser:true});
+var db = mongo.db("mongodb://localhost/yelp", {native_parser:true});
 
 app.engine('.html', require('ejs').__express);
 app.set('views', __dirname);
