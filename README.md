@@ -52,9 +52,8 @@ In number 2, we could scale the data to have a minimum at 3 and ignore all that 
  * "20100905 02:00"
  * "20100906 02:00"
  * "20100904 01:00"
- * "20100904 02:00"
  * "20100902 00:00"
- * 
+ * "20100901 00:00"
 2.
 3.
 4.
