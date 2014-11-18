@@ -20,9 +20,10 @@
 3. We would state that the dataset sample is not representative of its population.
 
 # Objective 1
-[Put your answers here]
+
 Rainy
 3/10,3/11,4/23,4/24,4/25
+
 Sunny
 2/8, 2/10, 2/15, 2/21, 2/23, 2/24
 
